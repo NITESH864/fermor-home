@@ -2,7 +2,7 @@
 
 A homepage for Fermor, built as part of the Founding Software Engineering Intern assignment.
 
-**Live site:** https://fermor-home-pink.vercel.app
+**Live site:** https://fermor-home-pink.vercel.app/
 
 ![Desktop view](desktop.png)
 ![Mobile view](mobile.png)
